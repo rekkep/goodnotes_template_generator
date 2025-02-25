@@ -1,0 +1,48 @@
+
+{
+    "dracula":{
+        "inspiration": "dracula",
+        "background_color": "#282a36", 
+        "line_color": "#44475a"
+    },
+    "default_white":{
+        "inspiration": "GoodNotes",
+        "background_color": "#ffffff",
+        "line_color": "#d1d3d4"
+    },
+    "default_dark": {
+        "inspiration": "GoodNotes",
+        "background_color": "#2f2f2f",
+        "line_color": "#57585b"
+    },
+    "default_yellow": {
+        "inspiration": "GoodNotes",
+        "background_color": "#f8f7ea",
+        "line_color": "#d1d3d4"
+    },
+    "black": {
+        "inspiration": "Discovery Notes black paper",
+        "background_color": "#000000",
+        "line_color": "#1b1b1d"
+    },
+    "midnight": {
+        "inspiration": "Discovery Notes midnight paper",
+        "background_color": "#041521",
+        "line_color": "#222a35"
+    },
+    "OneNote": {
+        "inspiration": "OneNote grid",
+        "background_color": "#ffffff",
+        "line_color": "#caebfd"
+    },
+    "Notability-classic": {
+        "inspiration": "Notability classic paper",
+        "background_color": "#ffffff",
+        "line_color": "#a3b7d3"
+    },
+    "template": {
+        "inspiration": "color_template",
+        "background_color": "#ff0000",
+        "line_color": "#0000ff"
+    }
+}
