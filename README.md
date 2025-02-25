@@ -67,7 +67,7 @@ Open `themes\themes.json` and add a new theme. Themes need to follow the given f
 
 #### **Adding new Paper Sizes**:
 Open `\paper_size\paper_sizes.json` and add a new paper size. Paper sizes need to follow the structure:
-```json
+```py
 "paper_name": [width_in_pixel, height_in_pixel]
 ```
 
